@@ -315,15 +315,15 @@ UI highlights include:
 
 ## Author
 
-**Shiva Koppula**
+**M Narasimha**
 
 B.Tech Computer Science Engineering
 
-Siddhartha Institute of Technology and Sciences
+AVN  Institute of  Engineering and Technology 
 
-Email: [shivakoppulagoud@gmail.com](mailto:shivakoppulagoud@gmail.com)
+Email: [mnarasimha8634@gmail.com](mailto:mnarasimha8634@gmail.com)
 
-Location: Ranga Reddy, Telangana
+Location: Hyderbad, Telangana
 
 ---
 
